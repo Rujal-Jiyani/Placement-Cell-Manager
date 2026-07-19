@@ -63,5 +63,5 @@ g++ 1_Main.cpp DataStructure.cpp -o PlacementManager
 ./PlacementManager
 ```
 
-🤝 Team
+## 🤝 Team
 Originally developed as a collaborative engineering project by a 4-member team to solve real-world data normalization and algorithmic optimization challenges.
